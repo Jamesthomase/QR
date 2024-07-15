@@ -6,6 +6,6 @@ qrcode library (for QR code generation)<br> </br>
 (Optional) HTML/CSS for front-end styling<br> </br>
 Usage<br>
 Start the application:<br>
-Open your web browser and navigate to http://127.0.0.1:5000.
-Enter the URL you want to convert into a QR code and click "Generate".
-Download the generated QR code image.
+Open your web browser and navigate to http://127.0.0.1:5000.<br>
+Enter the URL you want to convert into a QR code and click "Generate".<br>
+Download the generated QR code image.<br>
